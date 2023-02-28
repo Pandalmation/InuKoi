@@ -1,6 +1,7 @@
 # InuKoi
 Web Application Development System Final Project
-#LIVE LINK:
+
+# LIVE LINK to Assignment 1:
 https://pandalmation.github.io/InuKoi/
 
 Target User:
